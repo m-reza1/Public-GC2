@@ -1,0 +1,6 @@
+local storage diguanakan untuk simpen data2 yg perlu diakses secara global dan ringan2 aja
+untuk mengambil data product dll atau fetching lebih baik lakukan request ke api langsung
+
+1. tambahin filter,search, pagination(butuh data total page dan current page), sorting
+2. navbar cuma home sama dark mode 
+3. ubah fetch data jadi per component yg dibutuhkan aja, tidak perlu bikin file lg
